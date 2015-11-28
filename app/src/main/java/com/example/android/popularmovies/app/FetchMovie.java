@@ -22,7 +22,7 @@ import retrofit.client.Response;
  */
 public class FetchMovie {
     private final String LOG_TAG = FetchMovie.class.getSimpleName();
-    private final String API_KEY = "806b9c0290fa60294e1bc9a5d7e6e932";
+    private final String API_KEY = "Your api key";
 
     private final Context mContext;
 
